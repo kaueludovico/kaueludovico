@@ -8,8 +8,8 @@ Meu nome é Kauê, sou um desenvolvedor mobile fascinado por tecnologia, desenvo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueludovico&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/kaueludovico">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueludovico&layout=compact&langs_count=7&theme=dracula"/></a>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaueludovico-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
 
